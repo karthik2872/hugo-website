@@ -1,5 +1,5 @@
 ---
-title: "Faith: a divine Theme"
+title: "Faith Or Experience: Which comes first"
 featured_image: '/images/95th-Birthday-Logo-for-White-Background.jpg'
 description: "The last theme you'll ever need. Maybe."
 ---
