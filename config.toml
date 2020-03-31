@@ -1,5 +1,5 @@
 title = "Karthik Family"
-baseURL = "/hugo-website"
+baseURL = "/Karthikmfamily"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
