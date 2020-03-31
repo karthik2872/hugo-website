@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "See yourself in everyone."
+  description = "See yourself in everyone"
   facebook = ""
   twitter = "https://twitter.com/TheSathyaSai"
   instagram = ""
