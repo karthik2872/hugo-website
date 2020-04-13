@@ -1,6 +1,6 @@
 ---
 date: 2020-04-12T10:58:08-04:00
-description: "The Grand Hall"
+description: "Covid-19 Brings Changes"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["scene"]
 title: "Week of online learning at Monmouth Junction School"
