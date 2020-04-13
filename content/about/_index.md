@@ -1,8 +1,8 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "Some simple facts about our family, the values we live by and our perception of life in general"
 featured_image: ''
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Help Ever Hurt Never" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+We must transform the divine power latent in you into skill, for undertaking any useful activity. When knowledge is converted into skill, you acquire balance in life. In such a state of equanimity, you will develop insight. Ennobled with such an insight and divine power, you should undertake a noble activity. Only then it will be most fruitful and beneficial to everyone. Always undertake noble activities with a pure mind. Unity brings purity, and purity in turn leads to Divinity. You should never forget the inseparable relationship between unity, purity, and Divinity, and always strive to achieve that. You must all come together and work together in the spirit of sacrifice. Spirituality is not a business activity. Spirituality is divine. Spirituality is associated with unity. This unity in diversity alone will bring you happiness. I wish that you cultivate that principle of unity. Then, every activity undertaken by you will acquire its due value and sanctity!
