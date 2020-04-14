@@ -87,6 +87,11 @@
   </url>
   
   <url>
+    <loc>/karthikmpersonal/aarush/issue-2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/karthikmpersonal/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
