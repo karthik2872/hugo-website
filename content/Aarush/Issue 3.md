@@ -7,7 +7,7 @@ weight: 3
 ---
 # NBA News:
 
-In the NBA, Jason Tatum said "I haven't touched a basketball since the Celtics last game."  THat means he didn't train at all for other games that might come after the season comes back.
+In the NBA, Jason Tatum said "I haven't touched a basketball since the Celtics last game."  That means he didn't train at all for other games that might come after the season comes back.
 Also, players including Kyrie Irving, Zion Williamson, Joel Embiid, and more have raised money to help organizations impacted by the coronavirus.
 Some players also raised money and donated money to food-related charities. 
 
