@@ -1,0 +1,11 @@
+---
+title: "Issue-4"
+date: 2020-04-15T12:33:46+10:00
+draft: false
+featured: true
+weight: 4
+---
+# NBA News:
+
+Trevor Ariza said he wanted to play for a LA team, bu not the LA LAkers.  The only other LA team is the Clippers.  So the only other LA team option for Trevor Arizais the Clippers.
+The other Trevor, Trevor Booker announced his retirement.  He said "THANK YOU BASKETBALL!  I have no idea where I would have ended up without you!"
