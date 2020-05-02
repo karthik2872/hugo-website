@@ -1,11 +1,10 @@
 ---
 title: "Issue-5"
-date: 2020-04-17T12:33:46+10:00
+date: 2020-05-2T12:33:46+10:00
 draft: false
 featured: true
 weight: 5
 ---
 # NBA News:
 
-Trevor Ariza said he wanted to play for a LA team, but not the LA Lakers.  The only other LA team is the Clippers.  So the only other LA team option for Trevor Ariza is the Clippers.
-The other Trevor, Trevor Booker announced his retirement.  He said "THANK YOU BASKETBALL!  I have no idea where I would have ended up without you!"
+The NBA might be delaying the 2020-2021 season till December.  It's reasonable, since you never know how long the corona virus can go on until. Also, Nick Young, the former Warrior, almost got into a car crash with his former teamate, Javale Mcgee.  But still, Nick Young is best buds with Javale Mcgee.  They both had quite a story after the scene.
